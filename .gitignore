@@ -120,8 +120,11 @@ ipython_config.py
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
 __pypackages__/
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 34c62d2c4db59d1d4b427159a6641fbe418639ab
 # Celery stuff
 celerybeat-schedule
 celerybeat.pid
@@ -137,7 +140,11 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+<<<<<<< HEAD
 .idea/
+=======
+
+>>>>>>> 34c62d2c4db59d1d4b427159a6641fbe418639ab
 # Spyder project settings
 .spyderproject
 .spyproject
