@@ -1,6 +1,1 @@
-# In_bot_pl
-<<<<<<< HEAD
-coming soon ....
-=======
 coming soon ...
->>>>>>> 34c62d2c4db59d1d4b427159a6641fbe418639ab
