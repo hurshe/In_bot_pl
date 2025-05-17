@@ -1,10 +1,14 @@
 from imapclient import IMAPClient
 import pyzmail
 import re
+import os
+from typing import Final
+from dotenv import load_dotenv
 
+load_dotenv()
 
-EMAIL = "walderspitor@gmail.com"
-APP_PASSWORD = "purfvvmxhfvzlwqa"
+EMAIL: Final = os.getenv('EMAIL')
+APP_PASSWORD: Final = os.getenv('APP_PASSWORD')
 
 
 def get_latest_code():
